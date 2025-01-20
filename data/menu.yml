@@ -1,0 +1,10 @@
+items:
+  - title: "Blog"
+    path: "/"
+    icon: "fa-regular fa-newspaper"
+  - title: "L´équipe"
+    path: "/l-quipe"
+    icon: "fa fa-people-group"
+  - title: "Sponsors"
+    path: "/sponsors"
+    icon: "fa fa-sack-dollar"

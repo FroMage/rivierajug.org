@@ -1,0 +1,43 @@
+.page-content table,
+.article-page table {
+	background: none;
+	border: none;
+	thead {
+		background: none;
+		th {
+			color: black;
+			border-left: none;
+		}
+	}
+	td {
+		border: none;
+	}
+	tr:nth-child(2n) {
+		background: #eeeeee;
+	}
+}
+
+.warning {
+	margin: 1em;
+	padding: 1em;
+	background: #ffe6c7;
+	color: #ff8c00;
+}
+
+.warning:before {
+	content: "⚠️ Warning: ";
+	font-weight: bold;
+}
+
+.about .cover-author-image {
+	width: inherit;
+	height: inherit;
+	margin: 0 auto 10px;
+	border-radius: 0;
+	overflow: inherit;
+	background-color: inherit;
+}
+
+.about img {
+	border-radius: 0;
+}

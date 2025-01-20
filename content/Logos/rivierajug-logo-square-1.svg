@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3390"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="rivierajug-logo-square-1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/stephane/rivierajug-logo-square-1-small.png"
+   inkscape:export-xdpi="34.509998"
+   inkscape:export-ydpi="34.509998">
+  <defs
+     id="defs3392">
+    <linearGradient
+       id="linearGradient3328">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3330" />
+      <stop
+         style="stop-color:#00bdff;stop-opacity:1;"
+         offset="1"
+         id="stop3332" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3328"
+       id="radialGradient3340"
+       cx="468.71078"
+       cy="243.73508"
+       fx="468.71078"
+       fy="243.73508"
+       r="231.82494"
+       gradientTransform="matrix(0.5621348,0,0,0.2050407,128.77203,177.00757)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="54.7155"
+       cy="167.06931"
+       cx="86.629898"
+       id="SVGID_1_">
+		<stop
+   id="stop2507"
+   style="stop-color: rgb(255, 255, 255);"
+   offset="0" />
+
+		<stop
+   id="stop2509"
+   style="stop-color: rgb(251, 200, 180);"
+   offset="0.0604" />
+
+		<stop
+   id="stop2511"
+   style="stop-color: rgb(251, 195, 176);"
+   offset="0.0712" />
+
+		<stop
+   id="stop2513"
+   style="stop-color: rgb(247, 151, 139);"
+   offset="0.1829" />
+
+		<stop
+   id="stop2515"
+   style="stop-color: rgb(244, 113, 107);"
+   offset="0.2995" />
+
+		<stop
+   id="stop2517"
+   style="stop-color: rgb(241, 82, 81);"
+   offset="0.4199" />
+
+		<stop
+   id="stop2519"
+   style="stop-color: rgb(239, 58, 61);"
+   offset="0.5453" />
+
+		<stop
+   id="stop2521"
+   style="stop-color: rgb(238, 41, 47);"
+   offset="0.6778" />
+
+		<stop
+   id="stop2523"
+   style="stop-color: rgb(237, 31, 39);"
+   offset="0.822" />
+
+		<stop
+   id="stop2525"
+   style="stop-color: rgb(237, 28, 36);"
+   offset="1" />
+
+	</radialGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3398" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="494.01804"
+     inkscape:cy="704.4731"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="641"
+     inkscape:window-height="719"
+     inkscape:window-x="706"
+     inkscape:window-y="204" />
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#radialGradient3340);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.54503816px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 262.12683,274.13201 C 388.46066,274.13201 348.03384,179.83439 348.03384,179.83439 C 393.85847,223.58421 428.77688,273.96319 522.37451,274.13201"
+       id="path2387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-weight:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#feffff;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.529148;font-family:Bitstream Vera Sans"
+       x="266.397"
+       y="170.61031"
+       id="text2383"><tspan
+         sodipodi:role="line"
+         id="tspan2385"
+         x="266.397"
+         y="170.61031"
+         style="stroke:#feffff;stroke-width:1.39999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.529148">Riviera</tspan><tspan
+         sodipodi:role="line"
+         x="266.397"
+         y="260.61032"
+         style="stroke:#feffff;stroke-width:1.39999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.529148"
+         id="tspan3455">JUG</tspan></text>
+    <g
+       id="g2537"
+       transform="matrix(0.2390845,0,0,0.2390845,428.78161,176.38343)">
+      <path
+         id="path2492"
+         d="M 48.859,43.518 C 57.283,61.158 51.595,184.35 41.731,227.55 C 31.867,270.822 22.003,325.83 19.699,372.126 C 18.691,391.854 21.715,399.63 34.603,399.63 C 57.355,399.63 86.227,351.678 122.443,352.758 C 158.731,353.838 170.251,407.766 187.243,407.406 C 204.235,407.046 217.915,401.142 218.059,348.654 C 218.563,191.981 87.235,64.973 48.859,43.518 L 48.859,43.518 L 48.859,43.518 L 48.859,43.518 z"
+         clip-rule="evenodd"
+         style="fill-rule:evenodd" />
+      <path
+         id="path2494"
+         d="M 162.763,168.726 C 170.755,182.19 191.131,171.822 191.995,156.63 C 192.859,141.438 190.627,122.286 180.763,121.566 C 170.899,120.846 163.843,110.982 153.979,110.262 C 144.115,109.542 133.531,119.406 128.923,106.302 C 124.315,93.198 141.307,87.654 153.979,85.566 C 142.675,74.262 136.051,61.734 131.083,48.702 C 126.115,35.67 122.443,23.718 136.339,18.606 C 150.235,13.494 149.083,39.774 164.995,51.798 C 160.315,34.086 158.587,26.742 158.947,16.446 C 159.307,6.15 158.587,-1.698 173.203,0.318 C 187.819,2.334 181.483,32.718 192.859,45.102 C 196.315,33.366 198.403,18.462 206.755,12.342 C 215.107,6.222 234.115,6.078 222.019,31.206 C 209.923,56.334 225.547,69.942 221.875,89.742 C 218.203,109.542 206.827,105.942 201.931,118.686 C 197.035,131.43 204.811,160.446 195.595,173.478 C 186.379,186.51 184.723,206.526 190.699,222.51 C 172.339,205.374 162.763,168.726 162.763,168.726 L 162.763,168.726 L 162.763,168.726 L 162.763,168.726 z"
+         clip-rule="evenodd"
+         style="fill-rule:evenodd" />
+      <path
+         id="path2496"
+         d="M 48.355,185.646 C 40.939,236.478 15.163,242.526 13.867,263.622 C 12.571,284.718 20.707,286.734 20.203,306.246 C 19.699,325.758 2.347,333.678 0.259,344.262 C -1.829,354.846 9.187,358.23 15.595,358.23 C 22.003,358.23 28.411,330.15 31.003,312.294 C 33.595,294.438 22.507,283.926 22.507,271.686 C 22.507,259.446 38.563,237.054 35.611,256.71 C 48.931,235.686 55.268,208.901 48.355,185.646 L 48.355,185.646 L 48.355,185.646 L 48.355,185.646 z"
+         clip-rule="evenodd"
+         style="fill-rule:evenodd" />
+      <path
+         id="path2498"
+         d="M 58.292,205.013 C 52.676,232.517 17.612,386.093 35.468,388.037 C 53.324,389.981 78.74,340.517 120.356,340.877 C 162.044,341.237 178.46,396.317 188.612,395.957 C 198.764,395.597 205.46,399.557 206.54,337.493 C 207.62,275.429 169.748,196.157 147.356,161.237 C 116.971,163.181 84.283,187.518 58.292,205.013 L 58.292,205.013 L 58.292,205.013 L 58.292,205.013 z"
+         clip-rule="evenodd"
+         style="fill:#ffffff;fill-rule:evenodd" />
+      <g
+         id="g2500">
+	<path
+   id="path2502"
+   d="M 139.162,172.181 C 137.212,153.93 120.042,146.76 103.501,149.013 C 89.612,150.906 71.098,162.626 69.394,177.653 C 67.473,194.59 80.796,210.175 97.755,210.856 C 112.785,211.46 128.931,204.188 135.685,190.066 C 138.415,184.362 139.482,178.488 139.162,172.181"
+   style="fill:none" />
+
+	<path
+   id="path2504"
+   d="M 147.082,171.533 C 145.42,154.338 132.675,143.545 116.187,140.906 C 100.263,138.357 82.927,145.904 71.779,157.052 C 59.241,169.59 58.74,187.03 67.519,201.885 C 76.18,216.542 95.366,221.386 111.082,217.72 C 132.588,212.705 148.48,193.896 147.082,171.533" />
+
+	<radialGradient
+   gradientUnits="userSpaceOnUse"
+   r="54.7155"
+   cy="167.06931"
+   cx="86.629898"
+   id="radialGradient3432">
+		<stop
+   id="stop3434"
+   style="stop-color: rgb(255, 255, 255);"
+   offset="0" />
+
+		<stop
+   id="stop3436"
+   style="stop-color: rgb(251, 200, 180);"
+   offset="0.0604" />
+
+		<stop
+   id="stop3438"
+   style="stop-color: rgb(251, 195, 176);"
+   offset="0.0712" />
+
+		<stop
+   id="stop3440"
+   style="stop-color: rgb(247, 151, 139);"
+   offset="0.1829" />
+
+		<stop
+   id="stop3442"
+   style="stop-color: rgb(244, 113, 107);"
+   offset="0.2995" />
+
+		<stop
+   id="stop3444"
+   style="stop-color: rgb(241, 82, 81);"
+   offset="0.4199" />
+
+		<stop
+   id="stop3446"
+   style="stop-color: rgb(239, 58, 61);"
+   offset="0.5453" />
+
+		<stop
+   id="stop3448"
+   style="stop-color: rgb(238, 41, 47);"
+   offset="0.6778" />
+
+		<stop
+   id="stop3450"
+   style="stop-color: rgb(237, 31, 39);"
+   offset="0.822" />
+
+		<stop
+   id="stop3452"
+   style="stop-color: rgb(237, 28, 36);"
+   offset="1" />
+
+	</radialGradient>
+
+	<path
+   id="path2527"
+   d="M 139.162,177.941 C 137.669,193.568 125.215,206.123 110.218,209.765 C 94.348,213.619 76.825,207.508 71.122,191.189 C 68.21,182.857 68.752,174.31 73.759,166.991 C 77.982,160.82 84.792,155.991 91.538,152.925 C 105.462,146.599 125.37,145.896 135.069,160.002 C 138.744,165.348 139.387,171.641 139.162,177.941"
+   style="fill:url(#SVGID_1_);stroke:#000000" />
+
+</g>
+    </g>
+  </g>
+</svg>
