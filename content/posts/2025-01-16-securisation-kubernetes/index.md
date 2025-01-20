@@ -10,13 +10,13 @@ Le Riviera JUG organise une rencontre **gratuite** sur le thème de la sécurisa
 
 ACTE I
 
-Kubernetes : « Attends, mais quoi ? 😰 »
-Dev : « Ben, j'y vais, quoi… 👋 »
-Kubernetes : « Mais… Comme ça ? Tu m'abandonnes ? 😱 »
-Dev : « C'est un grand mot, ça… 🙄 J'ai fini, moi, pour une fois à l'heure ⌚, d'ailleurs, j'ai mon cours de pilates, là. Et puis, c'est bon, j'ai tout fini de coder, t'es en prod maintenant, t'en fais pas, tout va bien se passer ! 🦾 »
-Kubernetes : « M'enfin, n'importe quoi ?! T'as géré les fonctions internes, c'est sûr… Mais… je me sens un peu à poil, là… 👶 Tout nu, sur internet… D'ailleurs… y'a des requêtes chelou qui me démangent et me plaisent pas trop, là, tu devrais y jeter un coup d'œil, je pense pas que ce soit normal… »
-Dev : « Holala, mais quel dramaturge, ce cluster ! Bon, OK, je vais regarder… 🤔 »
-Kubernetes : « Dis… je me sens pas bien, là 🤢, je crois que je vais vomir des données… 🤮 BZZZZZ CRRRRR !!! »
+Kubernetes : « Attends, mais quoi ? 😰 »<br/>
+Dev : « Ben, j'y vais, quoi… 👋 »<br/>
+Kubernetes : « Mais… Comme ça ? Tu m'abandonnes ? 😱 »<br/>
+Dev : « C'est un grand mot, ça… 🙄 J'ai fini, moi, pour une fois à l'heure ⌚, d'ailleurs, j'ai mon cours de pilates, là. Et puis, c'est bon, j'ai tout fini de coder, t'es en prod maintenant, t'en fais pas, tout va bien se passer ! 🦾 »<br/>
+Kubernetes : « M'enfin, n'importe quoi ?! T'as géré les fonctions internes, c'est sûr… Mais… je me sens un peu à poil, là… 👶 Tout nu, sur internet… D'ailleurs… y'a des requêtes chelou qui me démangent et me plaisent pas trop, là, tu devrais y jeter un coup d'œil, je pense pas que ce soit normal… »<br/>
+Dev : « Holala, mais quel dramaturge, ce cluster ! Bon, OK, je vais regarder… 🤔 »<br/>
+Kubernetes : « Dis… je me sens pas bien, là 🤢, je crois que je vais vomir des données… 🤮 BZZZZZ CRRRRR !!! »<br/>
 Dev : « Kuby !? Kuby ?! Oh purée qu'est-ce qu'il s'est passé ?!?! On l'a perdu ?! On s'est fait hacker !!! Adieu soirée pilates 😭 »
 
 FIN
@@ -74,7 +74,7 @@ Garez-vous à l'intérieur du site !
 
 # Réservation
 
-[![alt text]({page.image('bookNow-black-large.webp||style=""')})](https://www.ticketsource.eu/booking/t-rpvllyd)
+[![alt text]({page.image('bookNow-black-large.webp')})](https://www.ticketsource.eu/booking/t-rpvllyd)
 
 # Sponsors
 
