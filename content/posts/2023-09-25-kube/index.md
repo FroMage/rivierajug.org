@@ -10,7 +10,7 @@ Le Riviera JUG organise une rencontre **gratuite** sur le thème de JKube le lun
 
 Je sais pas vous, mais moi, quand on me parle de Kube, immédiatement, je sais exactement de quoi on parle :
 
-<img style='margin:1em'  width="500" title='Madison Kube Garden' src='madison-cube-garden.jpg'/>
+<img style='margin:1em'  width="500" title='Madison Kube Garden' src='{page.image('madison-cube-garden.jpg')}'/>
 
 Voilà. Donc bref, connaissant Sun, ça va être une super soirée, on va bien se marrer, on va parler Futurama et brassage de bière. Ah, pardon, on me signale dans l'oreillette que c'est possible que je me sois trompé et que JKube se réfère à autre chose et que ces présentations soient tout à fait sérieuses ? Eh bien soit, je suis sûr que vu le niveau de Sun, ce sera quand même une super soirée !
 

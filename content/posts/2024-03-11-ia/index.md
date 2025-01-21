@@ -10,7 +10,7 @@ Le Riviera JUG organise une rencontre **gratuite** sur le thème de l'IA le lund
 
 Ah voilà, enfin un sujet où je comprends immédiatement à quoi m'attendre. Je sais pas vous, mais moi j'en avais marre de ces sujets ésotériques avec des acronymes compliqués comme LLM et des mots inventés comme LangChain4J qui ne veulent rien dire. Alors que l'IA, ça au moins c'est clair, tout le monde comprend !!
 
-<img style='margin:1em'  width="500" title='Terminator' src='terminator.jpg'/>
+<img style='margin:1em'  width="500" title='Terminator' src='{page.image('terminator.jpg')}'/>
 
 Voilà. Donc bref, connaissant Guillaume, ça va être une super soirée, on va bien se marrer, on va parler Shartzeneguère… swartenegger… Tchiouart… Arnold et Skynet. Ah, pardon, Google. Euh tiens, ah bon, Google, vraiment ? On me signale dans l'oreillette que c'est possible que je me sois trompé et que l'IA se réfère à autre chose et que ces présentations soient tout à fait sérieuses ? Eh bien soit, je suis sûr que vu le niveau de Guillaume, ce sera quand même une super soirée !
 
