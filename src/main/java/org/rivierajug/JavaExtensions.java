@@ -72,4 +72,19 @@ public class JavaExtensions {
 		}
 		return ret;
 	}
+	
+	public static String firstSection(DocumentPage post) {
+		String content = post.rawContent().trim();
+		if(content.startsWith("# ")) {
+			int endOfLine = content.indexOf('\n');
+			if(endOfLine != -1) {
+				content = content.substring(endOfLine+1);
+			}
+		}
+		int firstTitle = content.indexOf("\n# ");
+		if(firstTitle != -1) {
+			return content.substring(0, firstTitle);
+		}
+		return "Nope";
+	}
 }
