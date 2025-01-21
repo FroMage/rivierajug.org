@@ -7,6 +7,7 @@ image: rivierajug-nouveau-logo-200px.png
 social-twitter: RivieraJUG
 social-linkedin: groups?gid=1871734
 layout: :theme/index
+paginate: posts
 ---
 
 <h1>Bienvenue au Riviera JUG de Nice / Sophia-Antipolis</h1>
