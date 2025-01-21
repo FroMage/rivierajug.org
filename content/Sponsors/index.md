@@ -38,9 +38,7 @@ Nous remercions les sponsors de la prochaine rencontre du Riviera JUG, qui sont�
 
 |Sponsor|Rôles|
 |---|---|
-|[![alt text]({page.image('avisto-150.png')})](http://www.avisto.com)|Sponsor 2015-2016|
-|[![alt text]({page.image('inria-2-150px.png')})](http://www.inria.fr/sophia)|Salle|
-|[![alt text]({page.image('skema-logo.png')})](https://www.skema-bs.fr/campus/campus-sophia)|Salle|
+|[![alt text]({page.image('amadeus.png')})](https://amadeus.com/fr)|Salle et boissons depuis 2020|
 
 # Anciens sponsors
 
@@ -48,13 +46,14 @@ Nous remercions tous ceux qui nous ont aidé au fil du temps à vous proposer de
 
 |Sponsor|Rôles|
 |---|---|
+|[![alt text]({page.image('skema-logo.png')})](https://www.skema-bs.fr/campus/campus-sophia)|Salle en 2020|
 |[![alt text]({page.image('avisto-150.png')})](http://www.avisto.com)|Sponsor de 2011-2013, 2015-2016|
 |[![alt text]({page.image('lunatech-research-logo-small.png')})](http://www.lunatech.com)|Sponsor de 2009-2011|
 |[![alt text]({page.image('sfeir-150.jpeg')})](http://www.sfeir.com)|Sponsor de la [soirée GWT et Android](Main.201106-gwt-android) de juin 2011|
 |[![alt text]({page.image('wallstreet-150.png')})](http://www.wallstreetsystems.com)|Sponsor de la [soirée files de messages](Main.201103-files-messages) de mars 2011|
 |[![alt text]({page.image('activeeon-150.jpg')})](http://www.activeeon.com)|Sponsor du 6 novembre 2009|
-|[![alt text]({page.image('amadeus.png')})](http://www.amadeus.com)|Salle et boissons du 6 décembre 2009, 15 juillet 2009|
-|[![alt text]({page.image('inria-2-150px.png')})](http://www.inria.fr/sophia)|Salle de la plupart des soirées|
+|[![alt text]({page.image('amadeus.png')})](https://amadeus.com/fr)|Salle et boissons du 6 décembre 2009, 15 juillet 2009|
+|[![alt text]({page.image('inria-2-150px.png')})](http://www.inria.fr/sophia)|Salle de la plupart des soirées avant 2020|
 |[![alt text]({page.image('akka.png')})](http://www.akka.eu)|Logistique du 19 Juin 2009|
 |[![alt text]({page.image('StonesoftLogo-130.png')})](http://www.stonesoft.com)|Salle du 10 avril 2009|
 |[![alt text]({page.image('LogoApsideGroupe-130.jpg')})](http://www.apside.fr)|Buffet du 14 janvier 2009 et moitié du buffet le 10 avril 2009|
