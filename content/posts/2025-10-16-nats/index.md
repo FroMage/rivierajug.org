@@ -19,9 +19,9 @@ Ne manquez pas cette soirée et faites tourner l'info !  :)
 | Horaire       | Description                                    |
 | ------------- | ---------------------------------------------- |
 | 18:00 - 18:30 | Accueil                                        |
-| 18:30 - 19:15 | Jean-Noel Moyne : Introduction à Apache Kafka® |
+| 18:30 - 19:15 | Jean-Noel Moyne : Introduction to NATS         |
 | 19:15 - 19:45 | Buffet, boissons                               |
-| 19:45 - 20:30 | Jean-Noel Moyne : Introduction à Apache Kafka® |
+| 19:45 - 20:30 | Jean-Noel Moyne : Introduction to NATS         |
 | 20:30         | Troisième mi-temps dans un resto à proximité ! |
 
 # Programme détaillé
