@@ -26,7 +26,7 @@ Ne manquez pas cette soirée et faites tourner l'info !  :)
 
 # Programme détaillé
 
-## Introduction à Apache Kafka®
+## Introduction à NATS
 
 Publish/subscribe, Streaming, Microservices and NoSQL data stores have transformed how we **build and scale applications**, but as systems extend to the edge and integrate with AI-driven workloads, complexity skyrockets.
 
@@ -60,7 +60,7 @@ Garez-vous à l'intérieur du site !
 
 # Réservation
 
-[![alt text]({page.image('bookNow-black-large.webp')})](https://www.ticketsource.eu/rivieradev/t-zzrloyr)
+[![alt text]({page.image('bookNow-black-large.webp')})](https://www.ticketsource.com/rivieradev/t-jzedzgn)
 
 # Sponsors
 
