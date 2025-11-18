@@ -28,12 +28,13 @@
 	content: "⚠️ Warning: ";
 	font-weight: bold;
 }
-
 .about .cover-author-image {
 	width: inherit;
 	height: inherit;
 	margin: 0 auto 10px;
-	border-radius: 0;
+	img {
+    	border-radius: 0;
+    }
 	overflow: inherit;
 	background-color: inherit;
 }

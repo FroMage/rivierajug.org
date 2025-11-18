@@ -75,12 +75,18 @@ public class JavaExtensions {
 	
 	public static String firstSection(DocumentPage post) {
 		String content = post.rawContent().trim();
-		if(content.startsWith("# ")) {
-			int endOfLine = content.indexOf('\n');
-			if(endOfLine != -1) {
-				content = content.substring(endOfLine+1);
-			}
+		// skip eventual markdown header
+		if(content.startsWith("{#markdown}")){
+			content = content.substring(11).trim();
 		}
+		// skip any leading title
+ 		if(content.startsWith("# ")) {
+ 			int endOfLine = content.indexOf('\n');
+ 			if(endOfLine != -1) {
+ 				content = content.substring(endOfLine+1);
+ 			}
+ 		}
+		// now go until the next title
 		int firstTitle = content.indexOf("\n# ");
 		if(firstTitle != -1) {
 			return content.substring(0, firstTitle);
