@@ -10,7 +10,6 @@ Le Riviera JUG est organisé par l'équipe de Riviera DEV, qui est une associati
 |Nom|Fonction|Photo|
 |---|---|---|
 |Laurent Dollé|Président|<img width='120' height='120' src='laurent.png'/>|
-|Yannis Bres|Trésorier|<img width='120' height='120' src='yannis.jpeg'/>|
 |Antoine Vaudaine|Membre|<img width='120' height='120' src='antoine-vaudaine.jpg'/>|
 |Stéphane Épardaud|Membre|<img width='120' height='120' src='stef-2021-smaller.jpg'/>|
 
