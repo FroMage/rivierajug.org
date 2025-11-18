@@ -8,7 +8,7 @@ author: antoine
 Le Riviera JUG organise une rencontre **gratuite** sur le thème de Kubernetes le jeudi 27 Novembre à partir de 18h dans les locaux de [Amadeus Sophia Antipolis](url:https://goo.gl/maps/agQMwmE74eWqqQvd8).
 **Vous pouvez entrer sur le site d'Amadeus avec votre véhicule et vous garer à 2 pas (si vous avez de grandes jambes) de l'amphi où aura lieu la soirée !**
 
-Kubernetes… ça me dit quelque chose ? À force d’en entendre parler, j’ai l’impression qu’il fait carrément partie des meubles. Vous savez, ce truc posé là depuis dix ans, qu'on voit tous les jours sans y prêter attention. Pourtant ça évolue encore beaucoup, et c'est pour ça que jeudi, on va voir comment l’utiliser sans avoir l’air d'être rester bloquer en 2015 !
+Kubernetes… ça me dit quelque chose ? À force d’en entendre parler, j’ai l’impression qu’il fait carrément partie des meubles. Vous savez, ce truc posé là depuis dix ans, qu'on voit tous les jours sans y prêter attention. Pourtant ça évolue encore beaucoup, et c'est pour ça que jeudi, on va voir comment l’utiliser sans avoir l’air d'être resté bloqué en 2015 !
 
 Ne manquez pas cette soirée et faites tourner l'info ! :)
 
