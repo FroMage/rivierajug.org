@@ -5,7 +5,7 @@ tags: event
 author: antoine
 ---
 
-Le Riviera JUG organise une rencontre **gratuite** sur le thème de Spring le jeudi 19 Mars à partir de 18h dans les locaux de [Amadeus Sophia Antipolis](url:https://goo.gl/maps/agQMwmE74eWqqQvd8).
+Le Riviera JUG organise une rencontre **gratuite** sur le thème des **tests dans Spring Boot** le jeudi 19 Mars à partir de 18h dans les locaux de [Amadeus Sophia Antipolis](url:https://goo.gl/maps/agQMwmE74eWqqQvd8).
 **Vous pouvez entrer sur le site d'Amadeus avec votre véhicule et vous garer à 2 pas (si vous avez de grandes jambes) de l'amphi où aura lieu la soirée !**
 
 On connaît tous l'adage : « Tester, c'est douter. » C’est beau, c’est pur, mais c’est aussi le meilleur moyen de passer ses weekends à débugger une NullPointerException en prod pendant que le reste du monde profite du soleil.
