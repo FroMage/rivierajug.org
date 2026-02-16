@@ -8,6 +8,11 @@ author: antoine
 Le Riviera JUG organise une rencontre **gratuite** sur le thème de Spring le jeudi 19 Mars à partir de 18h dans les locaux de [Amadeus Sophia Antipolis](url:https://goo.gl/maps/agQMwmE74eWqqQvd8).
 **Vous pouvez entrer sur le site d'Amadeus avec votre véhicule et vous garer à 2 pas (si vous avez de grandes jambes) de l'amphi où aura lieu la soirée !**
 
+On connaît tous l'adage : « Tester, c'est douter. » C’est beau, c’est pur, mais c’est aussi le meilleur moyen de passer ses weekends à débugger une NullPointerException en prod pendant que le reste du monde profite du soleil.
+
+Alors, j'ai bien suivi le conseil : j'ai mis des tests partout. Résultat ? Maintenant, je passe mes week-ends à attendre que ma CI se termine.
+
+Finalement il doit y avoir moyen de faire autre chose de son week-end, je compte sur Daniel pour nous donner tous les meilleurs outils de spring pour tester efficacement. 
 
 Ne manquez pas cette soirée et faites tourner l'info ! :)
 
@@ -26,7 +31,6 @@ Ne manquez pas cette soirée et faites tourner l'info ! :)
 Quand on génère un projet sur start.spring.io, tout est inclus pour commencer à développer, et même à tester! Il y a un test avec @SpringBootTest, tout est simple et rapide. 6 mois plus tard, vos tests prennent 12 minutes à s'exécuter, et vous avez un échec aléatoire au moins une fois par jour. Et des mocks partout, et des tests d'intégration de 197 lignes de long. @SpringBootTest est simple à utiliser, et permet de démarrer immédiatement. Mais en l'utilisant partout, les développeurs passent à côté de tout ce que Boot peut apporter en termes de tests. Ils ne pensent pas suffisamment à l'architecture de leurs tests, ne produisent pas des tests lisibles, perdent de vue l'utilité des tests: feedback rapide, confiance, guide pour le design...
 
 Dans ce talk, vous découvrirez toute la panoplie de tests offerte par Spring Boot, via des exemples en live-coding. Au programme: les test slices, le cache de TestContext pour une exécution rapide, intégration test containers, toutes les techniques de test HTTP... Et surtout, les pépites cachées dans spring-boot-starter-test, comme Awaitility et AssertJ. Repartez avec toutes les best practices - appliquées à Spring.
-
 
 # À propos des intervenants
 
