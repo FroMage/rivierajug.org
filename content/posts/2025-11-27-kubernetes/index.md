@@ -1,6 +1,6 @@
 ---
 layout: :theme/post
-title: "Jeudi 16 Octobre 2025 @ Sophia-Antipolis : soirée NATS"
+title: "Jeudi 27 Novembre 2025 @ Sophia-Antipolis : soirée Kubernetes"
 tags: event
 author: antoine
 ---
