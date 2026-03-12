@@ -1,6 +1,6 @@
 ---
 layout: :theme/post
-title: "Jeudi 19 Mars 2025 @ Sophia-Antipolis : Tester les apps Spring Boot"
+title: "Jeudi 19 Mars 2026 @ Sophia-Antipolis : Tester les apps Spring Boot"
 tags: event
 author: antoine
 ---
