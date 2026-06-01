@@ -26,19 +26,19 @@ Ne manquez pas cette soirée et faites tourner l'info ! :)
 
 ## OpenJDK, JCP and JUGs: contributing to Java to become a beyond senior expert			
 
-"The Java technology evolves through 3 main pillars: open source, standards and community participation.
+The Java technology evolves through 3 main pillars: open source, standards and community participation.
 
 This interactive presentation will show what happens behind the scenes in those processes, how you can participate, and practical ways you can use Java's evolution to build technical expertise, and advance your career beyond the senior level.
 
 In this session you will:
 - Understand the secret Java Champions use to build technical expertise
 - How to think like Java's main architect, and build impact in your project and beyond
-- How to use Java's pillars to build a growth spiral for your own career"				
+- How to use Java's pillars to build a growth spiral for your own career			
 
 ## Be a better Java developer, learn faster and get more results: it's all about the skills!				
 
-"Struggling to keep up with technology, or feeling overwhelmed with so many things to learn? Do you feel you are a competent developer, but you don't see the results in your career? Maybe you feel like you don't belong or that you are not good enough?
-Those are common symptoms, you are not alone! This talk will show you what's behind those feelings, why you can't keep up, and how to solve that. Come learn what the last 10 years of brain science has shown about our career and what the best developers do differently. Discover the exact skills you need to have to grow, and how to apply them in your project today. Become a better Java developer, create unlimited growth and forge your own path to success."				
+Struggling to keep up with technology, or feeling overwhelmed with so many things to learn? Do you feel you are a competent developer, but you don't see the results in your career? Maybe you feel like you don't belong or that you are not good enough?
+Those are common symptoms, you are not alone! This talk will show you what's behind those feelings, why you can't keep up, and how to solve that. Come learn what the last 10 years of brain science has shown about our career and what the best developers do differently. Discover the exact skills you need to have to grow, and how to apply them in your project today. Become a better Java developer, create unlimited growth and forge your own path to success.
 
 # À propos des intervenants
 
@@ -64,7 +64,7 @@ Garez-vous à l'intérieur du site !
 
 # Réservation
 
-[![alt text]({page.image('bookNow-black-large.webp')})](http://ticketsource.com/rivieradev/e-logvao)
+[![alt text]({page.image('bookNow-black-large.webp')})](https://www.ticketsource.com/rivieradev/t-mjezjgq)
 
 # Sponsors
 
