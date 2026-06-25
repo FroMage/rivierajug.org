@@ -17,23 +17,21 @@ Ne manquez pas cette soirée et faites tourner l'info ! :)
 | Horaire       | Description                                    |
 | ------------- | ---------------------------------------------- |
 | 18:00 - 18:30 | Accueil                                        |
-| 18:30 - 19:15 | OpenJDK, JCP and JUGs: contributing to Java to become a beyond senior expert         |
+| 18:30 - 19:15 | Build your Professional Path by Visualizing How Java Evolves |
 | 19:15 - 19:45 | Buffet, boissons                               |
 | 19:45 - 20:30 | Be a better Java developer, learn faster and get more results: it's all about the skills!         |
 | 20:30         | Troisième mi-temps dans un resto à proximité ! |
 
 # Programme détaillé
 
-## OpenJDK, JCP and JUGs: contributing to Java to become a beyond senior expert			
+## Build your Professional Path by Visualizing How Java Evolves
 
-The Java technology evolves through 3 main pillars: open source, standards and community participation.
+Java developers are usually looking for the new and best in the technology. Yet… Have you ever wondered how Java evolves and where it’s headed? Have you ever considered that you could be part of Java’s evolution? 
 
-This interactive presentation will show what happens behind the scenes in those processes, how you can participate, and practical ways you can use Java's evolution to build technical expertise, and advance your career beyond the senior level.
+In this talk, I’ll share my discoveries while visualizing Java’s evolution. You will explore the two pillars of Java, the OpenJDK Project and the JCP process, uncover how they relate and discover the secrets that allow you to become a desired professional worldwide.
 
-In this session you will:
-- Understand the secret Java Champions use to build technical expertise
-- How to think like Java's main architect, and build impact in your project and beyond
-- How to use Java's pillars to build a growth spiral for your own career			
+You’ll understand how Java evolves and how you can follow this evolution so you are always a step ahead of your team. You will also understand the exact way to participate in Java’s future, and how to use that to grow technically and become a Java expert. Along the way, you will also learn how data visualization can make connections visible and understandable in your discussions and projects.
+
 
 ## Be a better Java developer, learn faster and get more results: it's all about the skills!				
 
@@ -49,6 +47,21 @@ Those are common symptoms, you are not alone! This talk will show you what's beh
 Since 1995, Bruno has been helping Java developers advance their careers and work on exciting projects. A recognized Java Evangelist and Java Champion, as well as a board member of the Java Community Process, Bruno founded and leads SouJava, the Brazilian Java Users Society. In his book, "Developer Career Masterplan," Bruno shares insights on career development for senior developers, topics he further explores in his Code4.life project.
 
 <br style="clear: right"/>
+
+## Csilla Szántó
+
+<img title="" src="scilla-szanto.png" alt="" style="float: right; margin: 1em; width: 120px" width="241">
+
+Csilla Szántó is a professional Java Software Engineer, focusing on developing web applications and data-driven solutions.
+
+Csilla worked in the industry and for consulting companies in different European countries before joining the field of research and public service.
+
+Her interests include inspiring AI and visualization projects and engagement in software communities.
+
+Csilla is also the creator of the “Java Universe” a visualization of the evolution of Java.
+
+<br style="clear: right"/>
+
 
 # Pour venir
 
